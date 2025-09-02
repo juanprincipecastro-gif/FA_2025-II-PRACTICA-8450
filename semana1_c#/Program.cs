@@ -30,11 +30,20 @@ namespace semana1_c_
 
 
 
-
-
-
         static void ejer2()
         {
+            Console.Write("ingrese numero x: ");
+            int x = int.Parse( Console.ReadLine() );
+
+            Console.Write("ingrese numero y: ");
+            int y = Convert.ToInt32( Console.ReadLine() );
+
+            double resu = x / y;
+
+            Console.WriteLine("suma: " + (x + y));
+            Console.WriteLine("resta: " + (x - y));
+            Console.WriteLine("multiplicacion: " + (x * y));
+            Console.WriteLine("divicion: " + resu);
 
         }
 
