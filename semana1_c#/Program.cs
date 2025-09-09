@@ -32,18 +32,7 @@ namespace semana1_c_
 
         static void ejer2()
         {
-            Console.Write("ingrese numero x: ");
-            int x = int.Parse( Console.ReadLine() );
-
-            Console.Write("ingrese numero y: ");
-            int y = Convert.ToInt32( Console.ReadLine() );
-
-            double resu = (double)x / (double)y;
-
-            Console.WriteLine("suma: " + (x + y));
-            Console.WriteLine("resta: " + (x - y));
-            Console.WriteLine("multiplicacion: " + (x * y));
-            Console.WriteLine("divicion: " + resu);
+            Console.WriteLine("\"jesus\"");
 
         }
 
@@ -57,7 +46,18 @@ namespace semana1_c_
 
         static void ejer3()
         {
+            Console.Write("ingrese numero x: ");
+            int x = int.Parse(Console.ReadLine());
 
+            Console.Write("ingrese numero y: ");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            double resu = (double)x / (double)y;
+
+            Console.WriteLine("suma: " + (x + y));
+            Console.WriteLine("resta: " + (x - y));
+            Console.WriteLine("multiplicacion: " + (x * y));
+            Console.WriteLine("divicion: " + resu);
         }
 
 
@@ -71,7 +71,16 @@ namespace semana1_c_
 
         static void ejer4()
         {
+            Console.Write("Ingrese el numero decial: ");
+            double num = Convert.ToDouble(Console.ReadLine());
 
+            double raiz2 = Math.Sqrt(num);
+            int redo = (int)Math.Round(num,0);
+            double cubo = Math.Pow(num, 3);
+            double raiz3 = Math.Pow(num, 1 / 3d);
+            Console.WriteLine("Raiz 2: " + raiz2);
+            Console.WriteLine("al cubo: " + cubo);
+            Console.WriteLine("Raiz3: " + raiz3);
         }
 
 
@@ -85,7 +94,14 @@ namespace semana1_c_
 
         static void ejer5()
         {
+            Console.Write("Ingrese numero:");
+            string num = Console.ReadLine();
 
+            int entero =int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("resto: " + (entero % 2));
+            Console.WriteLine("division: " + (deci / 3));
         }
 
 
