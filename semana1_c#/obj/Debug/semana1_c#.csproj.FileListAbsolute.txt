@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\bin\Debug\semana1_c#.exe.config
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\bin\Debug\semana1_c#.exe
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\bin\Debug\semana1_c#.pdb
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\obj\Debug\semana1_c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\obj\Debug\semana1_c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\obj\Debug\semana1_c#.exe
+C:\Users\UPN\Desktop\sem5\semana5codigo\FA_2025-II-PRACTICA-8450\semana1_c#\obj\Debug\semana1_c#.pdb
